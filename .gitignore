@@ -1,0 +1,41 @@
+HELP.md
+logs
+.env
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/node_modules
+/dist/
+/nbdist/
+/tmp/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+/src/main/resources/static/css
+/src/main/resources/static/js
+/src/main/resources/static/fonts
+/src/main/resources/static/mix-manifest.json
+
+### VS Code ###
+.vscode/
